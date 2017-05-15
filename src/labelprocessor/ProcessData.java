@@ -1,0 +1,10 @@
+package labelprocessor;
+
+public class ProcessData {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
